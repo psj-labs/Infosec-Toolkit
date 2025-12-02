@@ -1,5 +1,6 @@
 md5_map = {
   
+  
     "0cc175b9c0f1b6a831c399e269772661": "a",
     "7fc56270e7a70fa81a5935b72eacbe29": "A",
 
@@ -88,6 +89,21 @@ md5_map = {
     "8f14e45fceea167a5a36dedd4bea2543": "7",
     "c9f0f895fb98ab9159f51fd0297e236d": "8",
     "45c48cce2e2d7fbdea1afc51c7c6ad26": "9",
+
+    "21232f297a57a5a743894a0e4a801fc3": "admin",
+    "73acd9a5972130b75066c82595a1fae3": "ADMIN",
+    "e3afed0047b08059d0fada10f400c1e5": "Admin",
+
+    "5f4dcc3b5aa765d61d8327deb882cf99": "password",
+    "dc647eb65e6711e155375218212b3964": "Password",
+
+    "5d93ceb70e2bf5daa84ec3d0cd2c731a": "qwer1234",
+    "1adbb3178591fd5bb0c248518f39bf6d": "asdf1234",
+
+    "03d75d44cb444543d641283fb2adb5ce": "qwer1234!",
+    "b7580e5386368db4adce546826b61d56": "qwer1234!!",
+  
+
 }
 
 
