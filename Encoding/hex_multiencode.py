@@ -8,6 +8,6 @@ def hex_encode_message(text, count):
     return encoded_text
 
 
-message = "admin"
+message = "target"
 
 print(hex_encode_message(message, 10))   # 10 times HEX encoding
