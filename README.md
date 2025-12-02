@@ -1,2 +1,5 @@
-# Infosec-Toolkit
-This repository is a collection of tools used for IT security studies.
+# infosec-toolkit
+
+A curated collection of tools and labs for studying and practicing information security (Infosec).
+
+Focused on hands-on learning including network analysis, vulnerability testing, and security research.
