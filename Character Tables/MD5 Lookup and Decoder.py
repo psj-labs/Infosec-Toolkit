@@ -77,6 +77,17 @@ md5_map = {
 
     "fbade9e36a3f36d3d676c1b808451dd7": "z",
     "21c2e59531c8710156d34a3c30ac81d5": "Z",
+
+    "cfcd208495d565ef66e7dff9f98764da": "0",
+    "c4ca4238a0b923820dcc509a6f75849b": "1",
+    "c81e728d9d4c2f636f067f89cc14862c": "2",
+    "eccbc87e4b5ce2fe28308fd9f2a7baf3": "3",
+    "a87ff679a2f3e71d9181a67b7542122c": "4",
+    "e4da3b7fbbce2345d7772b0674a318d5": "5",
+    "1679091c5a880faf6fb5e6087eb1b2dc": "6",
+    "8f14e45fceea167a5a36dedd4bea2543": "7",
+    "c9f0f895fb98ab9159f51fd0297e236d": "8",
+    "45c48cce2e2d7fbdea1afc51c7c6ad26": "9",
 }
 
 
