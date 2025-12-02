@@ -75,3 +75,27 @@ md5_map = {
     "fbade9e36a3f36d3d676c1b808451dd7": "z",
     "21c2e59531c8710156d34a3c30ac81d5": "Z",
 }
+
+
+
+
+def find_md5_chars(long_string, md5_map):
+    results = []
+
+    for i in range(len(long_string) - 31):
+        chunk = long_string[i:i+32]
+        if chunk in md5_map:
+            results.append((i, chunk, md5_map[chunk]))
+
+    return results
+
+
+
+test_data = "input here"
+
+matches = find_md5_chars(test_data, md5_map)
+
+for pos, h, c in matches:
+    print(f"loc {pos} → {h} = '{c}'")
+
+# You can look up each character one by one.
