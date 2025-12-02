@@ -10,6 +10,6 @@ def decode_message(text, count):
     return decoded_text
 
 
-encoded = "admin"
+encoded = "target"
 
 print(decode_message(encoded, 20))   # 20 times decoding
