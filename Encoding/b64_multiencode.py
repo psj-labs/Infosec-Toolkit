@@ -9,6 +9,6 @@ def encode_message(text, count):
 
     return encoded_text
 
-message = "target"
+message = "target" # input character
 
 print(encode_message(message, 20))   # 20 times encoding
