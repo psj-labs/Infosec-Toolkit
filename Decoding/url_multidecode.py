@@ -10,6 +10,6 @@ def url_decode_message(text, count):
     return decoded_text
 
 
-encoded = "target"
+encoded = "target" # input character
 
 print(url_decode_message(encoded, 10))   # 10 times URL decoding
