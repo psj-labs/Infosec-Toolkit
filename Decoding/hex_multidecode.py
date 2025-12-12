@@ -8,6 +8,6 @@ def hex_decode_message(text, count):
     return decoded_text
 
 
-encoded = "target"
+encoded = "target" # input characters
 
 print(hex_decode_message(encoded, 10))   # 10 times HEX decoding
