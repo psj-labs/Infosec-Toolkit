@@ -6,5 +6,5 @@ def md5_hash(text: str) -> str:
 if __name__ == "__main__":
     s = "a"
     h = md5_hash(s)
-    print("Input:", s) #input
-    print("MD5 :", h) #output
+    print("Input:", s) 
+    print("MD5 :", h) # output
