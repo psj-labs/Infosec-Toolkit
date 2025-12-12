@@ -10,6 +10,6 @@ def url_encode_message(text, count):
     return encoded_text
 
 
-message = "target"
+message = "target" # input character
 
 print(url_encode_message(message, 10))   # 10 times URL encoding
