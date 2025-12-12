@@ -127,5 +127,3 @@ matches = find_md5_chars(test_data, md5_map)
 
 for pos, h, c in matches:
     print(f"loc {pos} → {h} = '{c}'")
-
-# You can look up each character one by one.
