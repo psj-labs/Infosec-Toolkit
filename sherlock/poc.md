@@ -19,7 +19,7 @@
 sherlock --version
 ```
 
-![sherlock --version](./sherlock/imgs/sherlock%20--version.png)
+![sherlock --version](/sherlock/imgs/sherlock%20--version.png)
 
 - 출력 결과는 다음과 같습니다.
 
@@ -52,18 +52,18 @@ sherlock psj-labs
 
 - 명령어 실행 후 잠시 대기하면, Sherlock은 각 웹 서비스에 대해 유저네임 존재 여부를 검사하고 결과를 터미널에 출력합니다.
 
-![searching](./sherlock/imgs/searching.png)
+![searching](/sherlock/imgs/searching.png)
 
 - 출력 결과 중 GitHub 항목에서 psj-labs 유저네임이 발견되었으며, 해당 계정으로 접근 가능한 URL이 함께 출력됩니다.
 
-![github result](./sherlock/imgs/github%20result.png)
+![github result](/sherlock/imgs/github%20result.png)
 
 
 ## 결과 검증
 
 - 출력된 GitHub URL을 `Ctrl` 키를 누른 상태로 클릭하여 실제 페이지에 접근하였습니다.
 
-![github page](./sherlock/imgs/github%20page.png)
+![github page](/sherlock/imgs/github%20page.png)
 
 - 접속 결과 Sherlock이 출력한 URL이 실제 필자가 찾고자하는 GitHub 프로필 페이지와 정확히 일치함을 확인합니다
 
