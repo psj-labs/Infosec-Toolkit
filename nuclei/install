@@ -1,0 +1,3 @@
+go install github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+/root/go/bin/nuclei --version
+/root/go/bin/nuclei -u [https://example.com]
