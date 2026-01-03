@@ -1,3 +1,4 @@
 # nuclei
 
 ### Nuclei는 미리 정의된 템플릿을 기반으로 웹,네트워크 대상의 취약점과 설정 오류를 자동으로 탐지하는 고속 보안 스캐너입니다
+### 참고: https://github.com/projectdiscovery/nuclei/tree/main
