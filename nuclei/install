@@ -1,3 +1,4 @@
+sudo apt install golang # go언어 설치 (Debian 계열)
 go install github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
-/root/go/bin/nuclei --version
+/root/go/bin/nuclei --version # go언어 정상 설치 확인
 /root/go/bin/nuclei -u [https://example.com]
