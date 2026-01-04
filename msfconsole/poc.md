@@ -136,8 +136,11 @@ keyscan_start
 ```
 ![11](/msfconsole/imgs/11.png)
 
-- 입력 정보 확인 후 수집을 종료하고 결과를 출력합니다.
+- 필자는 다음과 같이 구글에 hi my name is sungjin을 검색했고, 화면을 캡쳐했습니다.
 
+![12](/msfconsole/imgs/12.png)
+
+- 다음 명령어로 지금까지 스니핑 한 키보드 정보를 화면에 출력합니다.
 ```text
 keyscan_dump
 ```
